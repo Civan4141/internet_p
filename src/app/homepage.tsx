@@ -33,7 +33,7 @@ export default async function Home() {
                     </Link>
                   )}
                   <Link
-                    href="/auth/signout"
+                    href="/api/auth/signout"
                     className="bg-red-600 hover:bg-red-700 text-white px-4 py-2 rounded-md transition-colors"
                   >
                     Çıkış Yap
